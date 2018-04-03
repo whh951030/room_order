@@ -2,6 +2,7 @@
 import os
 import sys
 #刘亮修改
+#刘亮又修改了
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "room_order.settings")
     try:
